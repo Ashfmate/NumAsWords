@@ -20,7 +20,7 @@ IDK, maybe I will another requirement but this is what I can get
 
 # Contribution guide
 
-Fork this repo, add your language/framework as stated in here [here](README#Requirements). Then submit your pull request and I will review it.
+Fork this repo, add your language/framework as stated in here [here](README.md#Requirements). Then submit your pull request and I will review it.
 
 # Points
 
